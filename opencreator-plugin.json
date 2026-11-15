@@ -1,0 +1,8 @@
+{
+  "id": "octoeverywhere",
+  "name": "OctoEverywhere for OpenCreator",
+  "version": "0.2.0-rc.1",
+  "description": "OctoEverywhere remote access and cameras for OpenCreator.",
+  "moonraker_components": ["moonraker/oc_octoeverywhere.py"],
+  "moonraker_config": "config/octoeverywhere.conf"
+}

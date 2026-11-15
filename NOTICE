@@ -1,0 +1,10 @@
+Independent integration. No endorsement from FlashForge, OpenCreator, or OctoEverywhere.
+License: AGPL-3.0-only. See LICENSE.
+
+Setup downloads official OctoEverywhere source separately:
+https://github.com/QuinnDamerell/OctoPrint-OctoEverywhere
+
+Upstream software keeps its original licenses and copyright notices.
+This package contains no account identity, private configuration, engine source, or native binaries.
+
+OpenAI Codex provided substantial implementation, test, and documentation assistance.
